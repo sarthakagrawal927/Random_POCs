@@ -15,7 +15,14 @@ Making sure push notification works
 react-step-form
 react-multi-step-form
 with-redux-app
-robo-friends
+
+## RoboFriends
+
+Simple Redux setup
+
+## Email temp
+
+simple beautiful email template
 
 ## MutationObserver
 
